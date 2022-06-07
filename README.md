@@ -1,4 +1,4 @@
-##Array creation
+## Array creation
 
 |Method name|Function|
 |-----------|--------|
@@ -8,4 +8,5 @@
 |Np.zeros			| creates an array with 0's only 				|
 |Np.arange(start,over,step,dtype=int/float)| creates an array with start value iterates till the end value and steps over by the given step value|
 |Np.linspace(start,over,num=50,endpoint=True/False,dtype=int/float)| creates an array with given start and stop value and contains the number of elements specified. By default, it is 50. endpoint if declared true includes the stop value else excludes it.|
+
 
