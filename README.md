@@ -1,4 +1,10 @@
+### Axes/Dimensions 
+Axis = 0 means traversing the array from left to right i.e. along the rows
+Axis = 1 means traversing the array from top to bottom i.e. along the columns
+
+
 ## Array creation
+ 
 
 |Method name|Function|
 |-----------|--------|
